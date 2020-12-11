@@ -1,0 +1,3 @@
+BASEURL:=https://planning5-test-a419096.pbcs.us2.oraclecloud.com:443/
+AUTH:=
+FileDOwnloadLoc:=C:\Oracle\
